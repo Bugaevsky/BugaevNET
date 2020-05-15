@@ -1,0 +1,14 @@
+C:\Users\Nikita\source\repos\CTask1\CTask1\bin\Debug\CTask1.exe.config
+C:\Users\Nikita\source\repos\CTask1\CTask1\bin\Debug\CTask1.exe
+C:\Users\Nikita\source\repos\CTask1\CTask1\bin\Debug\CTask1.pdb
+C:\Users\Nikita\source\repos\CTask1\CTask1\obj\Debug\CTask1.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\CTask1\CTask1\obj\Debug\CTask1.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\CTask1\CTask1\obj\Debug\CTask1.exe
+C:\Users\Nikita\source\repos\CTask1\CTask1\obj\Debug\CTask1.pdb
+C:\Users\BugaevNA\Downloads\CTask1\CTask1\bin\Debug\CTask1.exe.config
+C:\Users\BugaevNA\Downloads\CTask1\CTask1\bin\Debug\CTask1.exe
+C:\Users\BugaevNA\Downloads\CTask1\CTask1\bin\Debug\CTask1.pdb
+C:\Users\BugaevNA\Downloads\CTask1\CTask1\obj\Debug\CTask1.csprojResolveAssemblyReference.cache
+C:\Users\BugaevNA\Downloads\CTask1\CTask1\obj\Debug\CTask1.csproj.CoreCompileInputs.cache
+C:\Users\BugaevNA\Downloads\CTask1\CTask1\obj\Debug\CTask1.exe
+C:\Users\BugaevNA\Downloads\CTask1\CTask1\obj\Debug\CTask1.pdb

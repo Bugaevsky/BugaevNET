@@ -1,0 +1,4 @@
+Center cordinates: 1 2
+Radius length: 5
+Length of round: 31,4159265358979
+Area of round: 78,5398163397448
