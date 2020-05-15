@@ -1,0 +1,7 @@
+c:\users\bugaevna\source\repos\CTask2\CTask2\bin\Debug\CTask2.exe.config
+c:\users\bugaevna\source\repos\CTask2\CTask2\bin\Debug\CTask2.exe
+c:\users\bugaevna\source\repos\CTask2\CTask2\bin\Debug\CTask2.pdb
+c:\users\bugaevna\source\repos\CTask2\CTask2\obj\Debug\CTask2.csprojResolveAssemblyReference.cache
+c:\users\bugaevna\source\repos\CTask2\CTask2\obj\Debug\CTask2.csproj.CoreCompileInputs.cache
+c:\users\bugaevna\source\repos\CTask2\CTask2\obj\Debug\CTask2.exe
+c:\users\bugaevna\source\repos\CTask2\CTask2\obj\Debug\CTask2.pdb

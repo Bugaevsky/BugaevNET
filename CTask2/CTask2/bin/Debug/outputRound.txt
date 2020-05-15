@@ -1,0 +1,6 @@
+User:
+Surname: �������
+Name: ����
+Fathername: ��������
+Birthday: 01.06.1999
+Age: 20
